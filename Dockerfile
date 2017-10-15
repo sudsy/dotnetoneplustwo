@@ -15,3 +15,4 @@ RUN sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft
 RUN apt-get update
 
 RUN apt-get -y install dotnet-sdk-2.0.0
+ 
